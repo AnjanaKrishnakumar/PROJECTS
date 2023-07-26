@@ -1,5 +1,5 @@
 /*
-HR ANALYSIS DATA EXPLORATION 
+HR ANALYTICS DATA EXPLORATION 
 */
 SELECT * FROM project_1.`hr-employee-attrition`;
 
